@@ -1,4 +1,4 @@
-Mathematica files necessary to reproduce the results of "Minimal Dark Matter: Generalized Framework and Direct-Detection Sensitivity".
+Mathematica files necessary to reproduce the results of "Minimal Dark Matter: Generalized Framework and Direct-Detection Sensitivity" (arxiv #2602.17764).
 
 The files must be placed in the same folder to run correctly.
 
