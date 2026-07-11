@@ -9,3 +9,5 @@ overlap_integrals.m contains pre-computed overlap integrals (eq. D4 in the paper
 evaluate_CrossSections.m computes the effective cross section for a given y value (small, mid, large) and given combination of multiplets.
 
 analyze.nb then uses the output of evaluate_CrossSections.m to compute the necessary particle mass to match the observed dark matter abundance.
+
+Please contact me at griffith.1037@osu.edu for more detailed instructions on how to use the code.
